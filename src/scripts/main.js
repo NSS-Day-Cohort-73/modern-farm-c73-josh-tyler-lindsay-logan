@@ -1,2 +1,5 @@
-console.log("Welcome to the main module")
+import {addPlant, usePlant} from "./field.js"
+
+
+
 
