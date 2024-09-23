@@ -8,7 +8,6 @@ const yearlyPlan = createPlan();
 plantSeeds(yearlyPlan);
 
 const thePlantList = usePlant();
-debugger
 const thePlantArray = harvestPlants(thePlantList);
 
 Catalog(thePlantArray);
