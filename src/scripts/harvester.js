@@ -1,8 +1,8 @@
 export const harvestPlants = (plantsArray) => {
     let arrayOfSeedObjects = [];
-    for (plant of plantsArray) {
+    for (const plant of plantsArray) {
 
-        if (plant.type=="corn") {
+        if (plant.type=="Corn") {
             for (let i=0; i<plant.output; i=i+2) {
                 arrayOfSeedObjects.push(plant);
             };
