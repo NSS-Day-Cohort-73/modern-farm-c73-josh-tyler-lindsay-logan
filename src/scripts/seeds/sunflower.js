@@ -4,5 +4,5 @@ export const createSunflower = {
         height: 380,
         output: 3
     }
-    return sunflowerSeed
+    return sunflowerSeed;
 }
