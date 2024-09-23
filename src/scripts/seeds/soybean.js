@@ -5,4 +5,4 @@ export const createSoybean = () => {
         output: 4
     };
     return soybeanSeed
-}
+};
