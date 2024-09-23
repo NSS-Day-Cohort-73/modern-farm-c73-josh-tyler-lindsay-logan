@@ -5,4 +5,4 @@ export const createPotato = () => {
         output: 2
     };
     return potatoSeed
-}
+};
