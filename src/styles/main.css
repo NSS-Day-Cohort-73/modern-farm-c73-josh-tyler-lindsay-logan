@@ -34,3 +34,17 @@ h1,h2,h3,h4,h5,h6 {
     background-color: darksalmon;
 }
 
+.container {
+    display:flex;
+}
+
+.messages {
+    display:flex;
+    flex-flow:row wrap;
+}
+
+.plant {
+    max-width: 20%;
+    padding: 5px;
+}
+
