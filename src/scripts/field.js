@@ -1,4 +1,4 @@
-import {seedObject, seedObject, seedObject, seedObject, seedObject, seedObject} from "./tractor.js"
+// import {seedObject, seedObject, seedObject, seedObject, seedObject, seedObject} from "./tractor.js"
 
 
 const theField = []
